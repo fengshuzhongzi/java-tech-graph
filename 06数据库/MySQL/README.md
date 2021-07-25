@@ -1,2 +1,2 @@
 # MySQL
-![MySQL](/MySQL.png)
+![MySQL](./MySQL.png)

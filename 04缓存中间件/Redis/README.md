@@ -1,2 +1,2 @@
-# redis
-![redis](./redis.png)
+# Redis
+![Redis](./Redis.png)
